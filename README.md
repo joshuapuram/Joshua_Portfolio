@@ -7,5 +7,8 @@ Data Science Portfolio
 * Used COVID-19 Data from John Hopkins University to conduct Data Visualization.
 * Used a variety of packages(plotly, folium, maplotlib, pandas, numpy) in python.
 
+## World-Wide COVID-19 Cases
 
 ![](https://github.com/joshuapuram/Joshua_Portfolio/blob/main/images/newplot.png)
+
+
