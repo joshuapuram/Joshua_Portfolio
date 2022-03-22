@@ -8,3 +8,4 @@ Data Science Portfolio
 * Used a variety of packages(plotly, folium, maplotlib, pandas, numpy) in python.
 
 
+![](https://github.com/joshuapuram/Joshua_Portfolio/blob/main/images/newplot.png)
