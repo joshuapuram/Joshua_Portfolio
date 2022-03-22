@@ -1,5 +1,4 @@
-# Joshua_Portfolio
-Data Science Portfolio
+# Joshua Puram Portfolio
 
 
 # [Project 1: COVID-19 Data Visualization](https://github.com/joshuapuram/COVID-19-Data-Visualization)
