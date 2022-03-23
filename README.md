@@ -5,7 +5,7 @@ Note: If you are not able to see images on the website, it is probably because t
 # [Project 1: COVID-19 Data Visualization](https://github.com/joshuapuram/COVID-19-Data-Visualization)
 
 * Used COVID-19 Data from John Hopkins University to conduct Data Visualization.
-* Used a variety of packages(plotly, folium, maplotlib, pandas, numpy) in python.
+* Used a variety of packages(plotly, folium, maplotlib, pandas, numpy, etc.) in python.
 
 ### World-Wide COVID-19 Cases
 
