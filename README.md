@@ -10,3 +10,4 @@
 * Used a variety of packages(plotly, folium, maplotlib, pandas, numpy, etc.) in python.
 * Plotted Tree Maps, Area Plot, Folium Maps, Choropleth Map, Static Colormap, etc.,
 
+### Stay tuned for more projects on this space! 
